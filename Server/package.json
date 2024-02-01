@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Backend To account based scheduling app",
+  "main": "AtlasConnect.js",
+  "scripts": {
+    "test": "yagga"
+  },
+  "repository": {
+    "type": "git",
+    "url": "SceduleApp"
+  },
+  "author": "Braeden Ferguson",
+  "license": "ISC"
+}
