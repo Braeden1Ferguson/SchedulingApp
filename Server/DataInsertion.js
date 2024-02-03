@@ -20,8 +20,7 @@ const client = new MongoClient(url);
          // Create a new document                                                                                                                                           
          let personDocument = {
              "name": { "first": "Braeden", "last": "Ferguson" },
-             "birth": new Date(2001, 12, 30), // May 23, 1912                                                                                                                                 
-             "death": new Date(),  // May 7, 1954                                                                                                                                  
+             "birth": new Date(2001, 12, 30),                                                                                                                                                                                                                                                                  
              "account-info": { "username": "Fergusonba", "password": "testpassword123" },
              "ScheduleData": {
                 //learn how to make a monthly schedule

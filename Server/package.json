@@ -2,9 +2,10 @@
   "name": "server",
   "version": "1.0.0",
   "description": "Backend To account based scheduling app",
-  "main": "AtlasConnect.js",
+  "main": "app.js",
   "scripts": {
-    "test": "yagga"
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" $$ exit 1"
   },
   "repository": {
     "type": "git",

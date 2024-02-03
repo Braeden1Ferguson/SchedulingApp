@@ -18,4 +18,4 @@ async function run() {
     }
 }
 
-run().catch(console.dir);
+run().catch(console.dir);clearImmediate
